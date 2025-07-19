@@ -1,0 +1,4 @@
+tdqm 
+notebook
+openai
+elasticsearch
